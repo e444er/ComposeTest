@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645086337511",
+    "project_id": "test-93ce8",
+    "storage_bucket": "test-93ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645086337511:android:6d7a839258b2b19c228542",
+        "android_client_info": {
+          "package_name": "com.moon.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645086337511-k0o365kl8fenjtc1ki3j1j8cgdohp3e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChHHYnAink_rYKH8G5Y8g5_v6i4EAUqtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645086337511-k0o365kl8fenjtc1ki3j1j8cgdohp3e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
